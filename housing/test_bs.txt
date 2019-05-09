@@ -1,4 +1,0 @@
-<th scope="row">Residential Exemption</th>
-<td id="bodycontent_0_PV_ResExempt">Yes</td>
-<th scope="row">Owner(s)</th>
-<td id="bodycontent_0_Owner">KELLY, DENNIS J. &amp; DR. LINDA S. AGLIO<br>8 SCOTT ST<br>CAMBRIDGE, MA 02138-2016</td>
