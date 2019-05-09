@@ -1,5 +1,5 @@
-# housing
-Housing Database Scraper using Scrapy
+# Housing Database Scraper using Scrapy
+Instructions:
 1. Install Scrapy (http://docs.scrapy.org/en/1.6/index.html)
 2. Look in /Spiders for a spider you want to use
 3. Or make a new Spider for a different database you want to scrape
